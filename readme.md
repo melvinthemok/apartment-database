@@ -55,7 +55,6 @@ These might require you to look up documentation online, or look at the next sec
 * Count the total number of properties where the owner_id is between 1 and 3.
 * Show all of the properties in alphabetical order that are not named Archstone and do not have an id of 3 or 5.
 * Show the highest age of all owners.
-* Show the name of all owners whose name starts with an E.
 * List all properties sorted by the owners names
 
 
